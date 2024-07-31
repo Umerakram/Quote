@@ -1,0 +1,59 @@
+.UserNewQuotes {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .UserNewQuotes h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .UserNewQuotes button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: maroon;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+
+  .UserNewQuotes form {
+    margin-bottom: 20px;
+  }
+  
+  .UserNewQuotes textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+  
+  .UserNewQuotes input[type='text'] {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .UserNewQuotes ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .UserNewQuotes li {
+    margin-bottom: 10px;
+  }
+  
+  .UserNewQuotes p {
+    margin-top: 20px;
+  }
+   
+  
+  

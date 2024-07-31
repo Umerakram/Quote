@@ -1,0 +1,39 @@
+nav {
+  background-color: maroon;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  background-color: maroon;
+}
+
+.nav-item:hover {
+  background-color: #800000;
+}
+
+.nav-item.active {
+  background-color: #800000;
+  font-weight: bold;
+}
+header {
+  background-color: maroon;
+  padding: 10px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
